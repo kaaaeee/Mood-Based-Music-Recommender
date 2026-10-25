@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Weightless",
+    "artist": "Marconi Union",
+    "genre": "ambient",
+    "mood": ["calm", "peaceful", "spacious"],
+    "activities": ["studying", "focus", "relaxation"],
+    "description": "Slow atmospheric instrumental soundscape with soft textures for concentration and unwinding."
+  },
+  {
+    "title": "Near Light",
+    "artist": "Ólafur Arnalds",
+    "genre": "modern classical",
+    "mood": ["reflective", "gentle", "melancholic"],
+    "activities": ["studying", "reading", "quiet evening"],
+    "description": "Piano and strings create a thoughtful cinematic atmosphere for focused work."
+  },
+  {
+    "title": "Intro",
+    "artist": "The xx",
+    "genre": "indie electronic",
+    "mood": ["minimal", "dreamy", "cool"],
+    "activities": ["night drive", "walking", "focus"],
+    "description": "Minimal electronic instrumental with a nocturnal city feeling and steady pulse."
+  },
+  {
+    "title": "A Moment Apart",
+    "artist": "ODESZA",
+    "genre": "electronic",
+    "mood": ["uplifting", "cinematic", "hopeful"],
+    "activities": ["running", "workout", "travel"],
+    "description": "Expansive electronic production with a motivating build and energetic rhythm."
+  },
+  {
+    "title": "Titanium",
+    "artist": "David Guetta ft. Sia",
+    "genre": "dance pop",
+    "mood": ["energetic", "confident", "powerful"],
+    "activities": ["workout", "gym", "running"],
+    "description": "High-energy dance-pop track with a strong beat for training and motivation."
+  },
+  {
+    "title": "Can't Hold Us",
+    "artist": "Macklemore & Ryan Lewis",
+    "genre": "hip hop pop",
+    "mood": ["energetic", "triumphant", "excited"],
+    "activities": ["workout", "running", "party"],
+    "description": "Fast-paced, upbeat anthem with driving percussion for intense exercise."
+  },
+  {
+    "title": "Sunset Lover",
+    "artist": "Petit Biscuit",
+    "genre": "chill electronic",
+    "mood": ["warm", "dreamy", "relaxed"],
+    "activities": ["night drive", "travel", "relaxation"],
+    "description": "Melodic electronic instrumental with a warm, hazy atmosphere for a scenic drive."
+  },
+  {
+    "title": "Midnight City",
+    "artist": "M83",
+    "genre": "synth-pop",
+    "mood": ["nostalgic", "euphoric", "dreamy"],
+    "activities": ["night drive", "city walk", "travel"],
+    "description": "Bright retro synths and a cinematic late-night city atmosphere."
+  },
+  {
+    "title": "Holocene",
+    "artist": "Bon Iver",
+    "genre": "indie folk",
+    "mood": ["introspective", "soft", "melancholic"],
+    "activities": ["reading", "rainy day", "quiet evening"],
+    "description": "Gentle layered folk with reflective lyrics and a subdued rainy-day mood."
+  },
+  {
+    "title": "Experience",
+    "artist": "Ludovico Einaudi",
+    "genre": "modern classical",
+    "mood": ["emotional", "cinematic", "building"],
+    "activities": ["studying", "reading", "reflection"],
+    "description": "Piano-led instrumental that gradually builds, suitable for focused or emotional moments."
+  },
+  {
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "genre": "dance pop",
+    "mood": ["playful", "upbeat", "bright"],
+    "activities": ["party", "workout", "getting ready"],
+    "description": "Bouncy dance-pop with a bright groove for a lively mood."
+  },
+  {
+    "title": "The Night We Met",
+    "artist": "Lord Huron",
+    "genre": "indie folk",
+    "mood": ["nostalgic", "sad", "dreamy"],
+    "activities": ["rainy day", "quiet evening", "reflection"],
+    "description": "Atmospheric folk song with a wistful, cinematic feeling for a reflective night."
+  },
+  {
+    "title": "Strobe",
+    "artist": "deadmau5",
+    "genre": "progressive house",
+    "mood": ["immersive", "euphoric", "gradual"],
+    "activities": ["night drive", "focus", "electronic listening"],
+    "description": "Long-form electronic track that slowly develops into a euphoric late-night journey."
+  },
+  {
+    "title": "Lovely Day",
+    "artist": "Bill Withers",
+    "genre": "soul",
+    "mood": ["warm", "optimistic", "happy"],
+    "activities": ["morning", "walking", "getting ready"],
+    "description": "Warm soulful groove with an optimistic feel for a positive start to the day."
+  },
+  {
+    "title": "Clair de Lune",
+    "artist": "Claude Debussy",
+    "genre": "classical",
+    "mood": ["peaceful", "delicate", "dreamy"],
+    "activities": ["studying", "reading", "relaxation"],
+    "description": "Soft impressionist piano music with a quiet, delicate atmosphere."
+  },
+  {
+    "title": "Run Boy Run",
+    "artist": "Woodkid",
+    "genre": "indie rock",
+    "mood": ["dramatic", "powerful", "urgent"],
+    "activities": ["workout", "running", "training"],
+    "description": "Driving percussion and dramatic vocals create a powerful running soundtrack."
+  }
+]
